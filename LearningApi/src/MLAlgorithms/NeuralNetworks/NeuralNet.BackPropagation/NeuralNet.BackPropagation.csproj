@@ -4,7 +4,6 @@
     <TargetFramework>netstandard1.3</TargetFramework>
     <AssemblyName>NeuralNet.BackPropagation</AssemblyName>
     <PackageId>NeuralNet.BackPropagation</PackageId>
-  
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
